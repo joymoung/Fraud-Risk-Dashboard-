@@ -211,6 +211,13 @@ export default function Dashboard() {
           </CardContent>
         </Card>
 
+        {/* Footer */}
+        <footer className="pt-8 pb-4 text-center">
+          <p className="text-sm text-slate-500 font-medium">
+            Created by joymoung@gmail.com &copy; {new Date().getFullYear()} - All Credits Reserved
+          </p>
+        </footer>
+
       </div>
     </div>
   );
