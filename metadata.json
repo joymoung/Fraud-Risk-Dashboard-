@@ -1,0 +1,6 @@
+{
+  "name": "Fraud Risk Dashboard",
+  "description": "A dashboard to visualize historical fraud data and model metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
